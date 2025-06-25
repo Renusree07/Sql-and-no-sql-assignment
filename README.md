@@ -31,14 +31,14 @@ This project demonstrates basic CRUD operations, data relationships, and queries
     mongosh
  
 
- 3. Load Sample Data
+  3. Load Sample Data
 
-mongosh < mongodb/sampleData.js
+    mongosh < mongodb/sampleData.js
  
 
-       4. Run MongoDB Queries
+  4. Run MongoDB Queries
  
-mongosh < mongodb/queries.js
+    mongosh < mongodb/queries.js
  
 
 ---
